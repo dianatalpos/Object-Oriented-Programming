@@ -1,0 +1,5 @@
+1,How to get the date?,andrea
+2,How to read from a file?,catalin
+3,How to make a coffee?,mircea
+4,How to pass all the exams?,andrei
+5,How to?,alessia

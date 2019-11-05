@@ -1,0 +1,7 @@
+1,1,alessia,use the date from stl,5
+2,2,andrei,use getline,8
+3,2,alessia,use gets,4
+4,3,andrea,use a coffee machine,100
+5,4,catalin,study,50
+6,4,andrea,cheat,100
+7,5,mircea,don't know,10

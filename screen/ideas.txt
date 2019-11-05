@@ -1,0 +1,7 @@
+flower accepted alessia 3
+car accepted catalin 2
+monster proposed carina 1
+tower accepted andrea 1
+bridge proposed carina 2
+tomorrow accepted catalin 1
+exam accepted alessia 3
